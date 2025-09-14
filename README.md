@@ -10,6 +10,5 @@ The report answers following questions:-
 5. Data Scientist jobs average salary in USD by geographic distribution 
 6. Which geography has more data science jobs than other roles? 
 
-The final dashboard is created with google sites which can be accessed with following link: 
-https://sites.google.com/husky.neu.edu/allaboutdatajobs
+
 
